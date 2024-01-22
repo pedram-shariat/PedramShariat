@@ -2,9 +2,7 @@
     <b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pedram Shariat</b>
 </h1>
 
-* 🌍 based in IRAN 
-
-<div align="center">>
+<div align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=282828">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=282828">
     <img src="https://img.shields.io/badge/-LUMEN-E74430?style=for-the-badge&logo=lumen&logoColor=E74430&labelColor=282828">
