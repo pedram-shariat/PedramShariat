@@ -3,6 +3,7 @@
 </h1>
 
 <div align="center">
+    <h2>Stacks</h2>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=282828">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=282828">
     <img src="https://img.shields.io/badge/-LUMEN-E74430?style=for-the-badge&logo=lumen&logoColor=E74430&labelColor=282828">
@@ -15,6 +16,10 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=282828">
 </div>
 
+<div align="center">
+    <h2>Socials</h2>
+    <a href="www.linkedin.com/in/pedram-shariat-naseri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+</div>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedram-shariat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
