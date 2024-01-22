@@ -23,4 +23,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedram-shariat&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmirZarei2002&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pedram-shariat&icon=0&color=0)](https://visitcount.itsvg.in)
